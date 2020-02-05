@@ -1,9 +1,9 @@
 
 # big.js #
 
-A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
+:warning: **This is a fork of [`big.js`](https://github.com/MikeMcl/big.js) to allow you to prevent errors from the library name.**
 
-This fork allow you to prevent errors from the library name.
+A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 
 The little sister to [bignumber.js](https://github.com/MikeMcl/bignumber.js/).
 See also [decimal.js](https://github.com/MikeMcl/decimal.js/), and [here](https://github.com/MikeMcl/big.js/wiki) for the difference between them.
